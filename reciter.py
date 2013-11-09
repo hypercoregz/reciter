@@ -14,7 +14,7 @@ args=parser.parse_args()
 for k in args.file[0].read().strip().split('\n'):
     j = k.split()
     d[j[0]] = j[1]
-print d
+# print d
 
 # main loop
 while(not succ):
