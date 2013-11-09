@@ -22,7 +22,6 @@ if args.reverse and not args.random:
 elif args.random:
     random.shuffle(d)
 
-print(args)
 # main loop
 while(not succ):
     succ = True
