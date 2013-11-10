@@ -9,7 +9,7 @@ MIT License.
 
 * [√] Recite with infinite turns.
 * [√] Only recite things you were answered wrong until you've fully mastered them.
-* [x] Show the correct answer under your answer (default) or not.
+* [ ] Show the correct answer under your answer (default) or not.
 * [√] Recite reversely or randomly. Your favor!
 * [√] Fully supports UTF-8.
 * [ ] Error handling on the way.
