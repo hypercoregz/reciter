@@ -16,7 +16,7 @@ args=parser.parse_args()
 for k in args.file[0].read().strip().split('\n'):
      d.append(k.split())
 
-# reverse or randomly the 2D list(if needed)
+# reverse or randomize the 2D list(if needed)
 if args.reverse and not args.random:
     d.reverse()
 elif args.random:
