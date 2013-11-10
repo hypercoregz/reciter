@@ -7,11 +7,13 @@ MIT License.
 
 ##Features
 
-- [x] Recite with infinite turns.
-- [x] Only recite things you were answered wrong until you've fully mastered them.
-- [ ] Show the correct answer under your answer (default) or not.
-- [x] Recite reversely or randomly. Your favor!
-- [ ] Error handling on the way.
+* [√] Recite with infinite turns.
+* [√] Only recite things you were answered wrong until you've fully mastered them.
+* [x] Show the correct answer under your answer (default) or not.
+* [√] Recite reversely or randomly. Your favor!
+* [√] Fully supports UTF-8.
+* [ ] Error handling on the way.
+
 ##Usage
 
 reciter.py [-h] [-r] [-R] file
